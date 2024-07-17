@@ -80,10 +80,7 @@ Contributions are welcome! If you have suggestions for improving the script, ple
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-
 ## Contact Information
 
 For help or feedback, contact me at [rahal8cherif@gmail.com](mailto:rahal8cherif@gmail.com).
 =======
-# RAG_CHAT_PDF
->>>>>>> 19128ee285cf6245cb19dd686cd138b3e6e581b7
