@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <pre>
  __       __ __    __ __       ________ ______ _______  _______  ________       ______  __    __  ______  ________ 
@@ -83,3 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact Information
 
 For help or feedback, contact me at [rahal8cherif@gmail.com](mailto:rahal8cherif@gmail.com).
+=======
+# RAG_CHAT_PDF
+>>>>>>> 19128ee285cf6245cb19dd686cd138b3e6e581b7
